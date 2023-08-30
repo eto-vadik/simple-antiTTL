@@ -1,0 +1,2 @@
+# simple-antiTTL
+magisk module
